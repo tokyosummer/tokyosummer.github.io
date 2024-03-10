@@ -12,7 +12,7 @@ author_notes:
   - ''
   - ''
 
-date: '2024-03'
+date: '2024-03-21'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publishDate:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: '2024-03'
+publication_types: '2024-03-21'
 
 # Publication name and optional abbreviated publication name.
 publication:
