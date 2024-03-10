@@ -1,23 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'When Capacity Encounters Crisis: Subnational Governments' Heterogeneous Response to the "Zero-Covid" Policy in China'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+  - 
 
-date: '2013-07-01T00:00:00Z'
+date: 'March 21, 2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +24,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: 
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Nearly three years after the first pandemic outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low. Under the uniform Zero-Covid policy, why did subnational governments facing a similar level of infection adopt different lockdown decisions? This paper argues that state capacity is key to understanding heterogeneity in policy implementation. Specifically, using a two-way fixed effects model, this paper provides robust evidence that, first, fiscal capacity, the conventional dimension of state capacity, does not significantly influence lockdown decisions. Second, medical capacity, the capacity closely related to the policy goal, explains the variation: cities with weaker medical capacity, i.e., fewer medical workers for achieving pandemic control, are more likely to prefer strict measures with large-scale lockdowns, while high-capacity cities prefer targeted measures with small-scale lockdowns. Third, different dimensions of capacity are not necessarily correlated: cities with strong fiscal capacity do not necessarily have strong medical capacity. In sum, state capacity is multidimensional and varies across localities, and heterogeneity in policy implementation is shaped by capacity contingent on the policy goal, especially in times of crisis.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Variations in medical capacity, not fiscal capacity, lead to heterogeneity in lockdown decisions.
 
 tags: []
 
@@ -43,14 +42,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://dukespace.lib.duke.edu/server/api/core/bitstreams/e3493cb3-5d1a-4206-8c44-31d52fa9269c/content'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
