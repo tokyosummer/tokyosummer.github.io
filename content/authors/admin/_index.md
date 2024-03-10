@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year Ph.D. student in Political Science at University of Rochester. Welcome to reach me at yxia24@ur.rochester.edu.
+bio: I am a first-year Ph.D. student in Political Science at University of Rochester. Welcome to reach me at yxia24@ur.rochester.edu
 
 
 # Education to show in About widget
