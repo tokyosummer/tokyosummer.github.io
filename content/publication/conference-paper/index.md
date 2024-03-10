@@ -42,7 +42,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://dukespace.lib.duke.edu/server/api/core/bitstreams/e3493cb3-5d1a-4206-8c44-31d52fa9269c/content'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
