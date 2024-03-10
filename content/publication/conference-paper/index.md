@@ -1,5 +1,5 @@
 ---
-title: 'When Capacity Encounters Crisis: Subnational Governments Heterogeneous Response to the "Zero-Covid" Policy in China'
+title: 'When Capacity Encounters Crisis: Subnational Governments Heterogeneous Response to the Zero-Covid Policy in China'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,9 +8,7 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
-  - 
-  - 
+# author_notes: 
 
 date: 'March 21, 2024'
 doi: ''
