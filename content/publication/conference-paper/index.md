@@ -1,20 +1,19 @@
 ---
-title: 'When Capacity Encounters Crisis: Subnational
-Governments’ Heterogeneous Response to the
-“Zero-Covid” Policy in China'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - ''
-  - ''
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2024-03-21'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -44,14 +43,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dukespace.lib.duke.edu/server/api/core/bitstreams/e3493cb3-5d1a-4206-8c44-31d52fa9269c/content'
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://youtube.com'
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
