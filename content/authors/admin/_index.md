@@ -40,7 +40,7 @@ education:
     - course: M.Sc. in International Relations
       institution: London School of Economics and Political Science
       year: 
-    - course: L.L.B in International Relations
+    - course: L.L.B. in International Relations
       institution: Jilin University
       year: 
 
