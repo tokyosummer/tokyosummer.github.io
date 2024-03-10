@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Yu Xia
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Department of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
+  - name: University of Rochester
     url: 
 
 # Short bio (displayed in user profile at end of posts)
