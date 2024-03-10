@@ -5,14 +5,14 @@ title: 'When Capacity Encounters Crisis: Subnational Governments’ Heterogeneou
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '2024-03-21'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
