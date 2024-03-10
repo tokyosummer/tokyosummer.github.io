@@ -25,7 +25,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication_short: 
 abstract: Nearly three years after the first pandemic outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low.
 
 # Summary. An optional shortened abstract.
