@@ -36,8 +36,8 @@ education:
       year: 
     - course: M.A. in Political Science
       institution: Duke University
-      year: 2009
-    - course: MSc in International Relations
+      year: 
+    - course: M.Sc. in International Relations
       institution: London School of Economics and Political Science
       year: 
     - course: L.L.B in International Relations
