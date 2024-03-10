@@ -101,7 +101,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Working Paper
       filters:
         folders:
           - publication
