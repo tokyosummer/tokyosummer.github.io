@@ -44,7 +44,7 @@ sections:
       username: admin
 
   - block: collection
-    id: Research
+    id: post
     content:
       title: Recent Posts
       subtitle: ''
