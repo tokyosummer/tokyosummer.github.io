@@ -1,5 +1,7 @@
 ---
-title: 'An example conference paper'
+title: 'When Capacity Encounters Crisis: Subnational
+Governments’ Heterogeneous Response to the
+“Zero-Covid” Policy in China'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
