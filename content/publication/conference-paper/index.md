@@ -31,7 +31,7 @@ abstract: Nearly three years after the first pandemic outbreak, China relaxed it
 # Summary. An optional shortened abstract.
 summary: Capacity constraints are key to understanding policy implementation particularly during the crisis time.
 
-tags: [state capacity][policy implementation][Covid-19][lockdowns]
+tags: [state capacity, policy implementation]
 
 # Display this page in the Featured widget?
 featured: true
