@@ -51,10 +51,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: yxia24@ur.rochester.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Summer_XXXY
     label: Follow me on Twitter
     display:
       header: true
