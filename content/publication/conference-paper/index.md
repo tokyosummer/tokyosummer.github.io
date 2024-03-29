@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short: 
-abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low. 
+abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large scale lockdowns even when the number of infected cases was low. 
 
 
 
