@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short: 
-abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control, 
+abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control
 
 
 
