@@ -28,7 +28,7 @@ publication:
 publication_short: 
 abstract: Nearly three years after the first outbreak,
 
-![image](https://github.com/tokyosummer/tokyosummer.github.io/assets/160976614/498908a2-6b04-452f-a3f2-2b0928341135)
+# ![image](https://github.com/tokyosummer/tokyosummer.github.io/assets/160976614/498908a2-6b04-452f-a3f2-2b0928341135)
 
 
 # Summary. An optional shortened abstract.
