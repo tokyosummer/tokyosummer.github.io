@@ -26,7 +26,13 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short: 
-abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy.
+abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low. 
+
+
+
+
+![image](https://github.com/tokyosummer/tokyosummer.github.io/assets/160976614/498908a2-6b04-452f-a3f2-2b0928341135)
+
 
 # Summary. An optional shortened abstract.
 summary: Capacity constraints are key to understanding policy implementation particularly during the crisis time.
