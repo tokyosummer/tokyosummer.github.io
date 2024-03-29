@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short: 
-abstract: 
+abstract: Nearly three years after the first outbreak,
 
 
 
