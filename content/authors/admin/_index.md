@@ -79,5 +79,5 @@ social:
 highlight_name: true
 ---
 
-I am a first-year Ph.D. student in Political Science at University of Rochester. Welcome to reach me at yxia24@ur.rochester.edu.
+I am a second-year Ph.D. student in Political Science at University of Rochester. Welcome to reach me at yxia24@ur.rochester.edu.
 {style="text-align: justify;"}
