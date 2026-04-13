@@ -7,10 +7,6 @@ title: 'When Capacity Encounters Crisis: Subnational Governments’ Heterogeneou
 authors:
 #  - admin
 
-_build:
-  render: never
-  list: always
-
 # Author notes (optional)
 author_notes:
 
