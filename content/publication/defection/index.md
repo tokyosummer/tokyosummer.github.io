@@ -1,5 +1,5 @@
 ---
-title: 'Defection and Network Difussion'
+title: 'Defection through Military Hierarchy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
