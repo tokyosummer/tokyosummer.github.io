@@ -29,7 +29,7 @@ publication_short:
 abstract: ‘Governments often face a counterinsurgency dilemma:’ raising tax rates to extract resources for counterinsurgency efforts may simultaneously intensify public grievances, thereby strengthening the rebel movement. This paper demonstrates that both grievances and rebel strategy can facilitate mobilization, yet their effects do not simply add up. The key mechanism is that grievances reshape social relations between elites and peasants, making it difficult for rebels to exploit polarized relations—particularly class conflict—for mobilization. Drawing on a newly constructed county-level dataset documenting salt tax–related peasant protests and Chinese Communist Party mobilization between 1921 and 1949, and employing a triple difference-in-differences design, the analysis shows that the central government’s efforts to strengthen counterinsurgency capacity provoked local grievances and encouraged participation in rebellion, but at the same time undermined the effectiveness of land reform as a recruitment strategy for the rebel group.
 
 # Summary. An optional shortened abstract.
-summary: Government’s efforts to strengthen counterinsurgency capacity can backfire and promote rebel mobilization.
+summary: Government’s counterinsurgency effort can backfire and promote rebel mobilization.
 
 tags: [state capacity, land reform, rebel mobilization]
 
