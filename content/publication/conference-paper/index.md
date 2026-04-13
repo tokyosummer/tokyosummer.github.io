@@ -36,6 +36,7 @@ tags: [state capacity, policy implementation]
 # Display this page in the Featured widget?
 featured: false
 
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
@@ -56,6 +57,10 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**]([https://unsplash.com/photos/a-person-wearing-a-protective-suit-and-holding-a-toothbrush-nO8j-DOUzmc])'
 #  focal_point: ''
 #  preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
