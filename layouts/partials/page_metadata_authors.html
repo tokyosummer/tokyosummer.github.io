@@ -1,5 +1,12 @@
 {{ with .Params.authors }}
-  <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors_links" $ }}
-  </span>
+<span class="article-metadata li-cite-author">
+  {{ range $index, $author := . }}
+    {{ if gt $index 0 }}, {{ end }}
+    {{ if eq $author "admin" }}
+      Yu Xia
+    {{ else }}
+      {{ $author }}
+    {{ end }}
+  {{ end }}
+</span>
 {{ end }}
