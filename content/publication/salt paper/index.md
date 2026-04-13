@@ -31,7 +31,7 @@ abstract: ‘Governments often face a counterinsurgency dilemma:’ raising tax 
 # Summary. An optional shortened abstract.
 summary: Government’s counterinsurgency effort can backfire and promote rebel mobilization.
 
-tags: [state capacity, land reform, rebel mobilization]
+tags: [state capacity, mobilization, civil war]
 
 # Display this page in the Featured widget?
 featured: true
