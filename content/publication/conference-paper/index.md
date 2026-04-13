@@ -4,19 +4,19 @@ title: 'When Capacity Encounters Crisis: Subnational Governments’ Heterogeneou
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-#  - admin
+ authors:
+  - admin
 
 
 # Author notes (optional)
 author_notes:
 
 
-# date: '2024-03-21'
+ date: '2024-03-21'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+ publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
