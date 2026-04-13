@@ -31,7 +31,7 @@ abstract: Why do defections by senior leaders sometimes trigger wider cascades o
 # Summary. An optional shortened abstract.
 summary: Defections diffuse within military hierarchy and the effects depend on where the signal comes from.
 
-tags: [battlefield performance, military network, civil war]
+tags: [battlefield performance, civil war]
 
 # Display this page in the Featured widget?
 featured: true
