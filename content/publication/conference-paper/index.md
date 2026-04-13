@@ -34,7 +34,7 @@ summary: Capacity constraints are key to understanding policy implementation par
 tags: [state capacity, policy implementation]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 
 # Custom links (uncomment lines below)
