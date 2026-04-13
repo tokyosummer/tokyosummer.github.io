@@ -1,11 +1,5 @@
 {{ $page := .page | default . }}
-{{ $is_list := .is_list | default 0 }}
-{{ $share := .share | default false }}
 
 <div class="article-metadata">
   {{ partial "page_metadata_authors" $page }}
-
-  {{ if $share }}
-    {{ partial "share" $page }}
-  {{ end }}
 </div>
