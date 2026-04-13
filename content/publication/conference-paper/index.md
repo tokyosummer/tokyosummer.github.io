@@ -26,7 +26,25 @@ publication_types:
 publication:
 publication_short: 
 abstract: >
-Nearly three years after the first outbreak, China relaxed its zero-COVID policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low. Under the uniform zero-COVID policy, why did subnational governments facing a similar level of infection adopt different lockdown decisions? This study argues that state capacity is key to understanding heterogeneity in policy choice. Specifically, using an instrumental variable approach and a novel dateset covering 281 Chinese cities, this study provides robust evidence for these arguments. Firstly, contrary to expectations, fiscal capacity, typically considered a conventional dimension of state capacity, does not significantly influence lockdown decisions. Similarly, capacity less directly related to achieving the policy goal, such as monitoring capacity, also do not explain the variation. Secondly, medical capacity, closely aligned with the policy goal, explains the variation: cities with weaker medical capacity, i.e., fewer doctors for achieving pandemic control, are more likely to prefer strict measures with large-scale lockdowns, while high-capacity cities prefer targeted measures with small-scale lockdowns. Third, missionary hospitals established  in the late twentieth century laid the groundwork for modern medical capacity in China and shaped policy decisions during the pandemic.
+  Nearly three years after the first outbreak, China relaxed its zero-COVID policy.
+  During the period of strict control, some local officials flexibly achieved both
+  pandemic control and economic recovery with targeted measures, while others insisted
+  on stringent policies with large-scale lockdowns even when the number of infected
+  cases was low. Under the uniform zero-COVID policy, why did subnational governments
+  facing a similar level of infection adopt different lockdown decisions? This study
+  argues that state capacity is key to understanding heterogeneity in policy choice.
+  Specifically, using an instrumental variable approach and a novel dateset covering
+  281 Chinese cities, this study provides robust evidence for these arguments.
+  Firstly, contrary to expectations, fiscal capacity, typically considered a
+  conventional dimension of state capacity, does not significantly influence lockdown
+  decisions. Similarly, capacity less directly related to achieving the policy goal,
+  such as monitoring capacity, also do not explain the variation. Secondly, medical
+  capacity, closely aligned with the policy goal, explains the variation: cities with
+  weaker medical capacity, i.e., fewer doctors for achieving pandemic control, are
+  more likely to prefer strict measures with large-scale lockdowns, while high-capacity
+  cities prefer targeted measures with small-scale lockdowns. Third, missionary
+  hospitals established in the late twentieth century laid the groundwork for modern
+  medical capacity in China and shaped policy decisions during the pandemic.
 
 
 # Summary. An optional shortened abstract.
