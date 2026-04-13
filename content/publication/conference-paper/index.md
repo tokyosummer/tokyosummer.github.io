@@ -29,7 +29,7 @@ abstract: Nearly three years after the first outbreak, China relaxed its zero-CO
 
 
 # Summary. An optional shortened abstract.
-summary: Heterogeneity in policy implementation is shaped by capacity contingent on the policy goal, especially in times of crisis.
+summary: Heterogeneity in policy implementation is shaped by contingent capacity, especially in times of crisis.
 
 tags: [state capacity, policy implementation]
 
