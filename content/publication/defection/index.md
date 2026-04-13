@@ -29,7 +29,7 @@ publication_short:
 abstract: Why do defections by senior leaders sometimes trigger wider cascades of exit in hierarchical organizations? Existing research on battlefield performance often conceptualizes combatants as collections of atomistic individuals, while relational approaches emphasize the critical role of social networks. I extend the network perspective by examining how high-level officers’ defections diffuse through military hierarchies. I argue that the decision of one officer to defect can influence others by reshaping the security environment, altering promotion incentives, and transforming systems of discipline within the chain of command. The impact of these mechanisms, however, depends on the hierarchical relationship between the focal officer and the defector. Using newly assembled biographical data on Kuomintang officers during the Chinese Civil War, I find that officers were significantly more likely to defect when their peers had already done so, while defections by superiors were associated with a decreased likelihood of defection among their subordinates. These findings highlight the importance of hierarchical military network in shaping battlefield performance and war outcome.
 
 # Summary. An optional shortened abstract.
-summary: Defection decisions diffuse within military network and the effects depend crucially on where the signal comes from.
+summary: Defections diffuse within military hierarchy and the effects depend crucially on where the signal comes from.
 
 tags: [battlefield performance, military network, civil war]
 
