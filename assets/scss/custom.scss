@@ -1,10 +1,16 @@
+/* Abstract / summary text justification */
+.article-style,
 .article-style p,
-.card-simple p {
-  text-align: justify;
+.pub-abstract,
+.pub-abstract p {
+  text-align: justify !important;
   text-justify: inter-word;
 }
 
+/* Hide share icons on single publication pages */
+.share-box,
+.article-container .share-box,
 .publication .share-box,
-.publication .share {
+.pub .share-box {
   display: none !important;
 }
