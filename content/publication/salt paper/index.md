@@ -1,5 +1,5 @@
 ---
-title: 'When Capacity Encounters Crisis: Subnational Governments’ Heterogeneous Response to the “Zero-Covid” Policy in China'
+title: 'Salt Tax, Land Reform, and Rebel Mobilization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +12,7 @@ authors:
 author_notes:
 
 
-date: '2025-10-20'
+date: '2025-10-24'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short: 
-abstract: Nearly three years after the first outbreak, China relaxed its Zero-Covid policy. During the period of strict control, some local officials flexibly achieved both pandemic control and economic recovery with targeted measures, while others insisted on stringent policies with large-scale lockdowns even when the number of infected cases was low. Under the uniform Zero-Covid policy, why did subnational governments facing a similar level of infection adopt different lockdown decisions? This study argues that state capacity is key to understanding heterogeneity in policy choice. Specifically, using a novel dateset covering 281 Chinese cities, this study provides robust evidence for these arguments. Firstly, contrary to expectations, fiscal capacity, typically considered a conventional dimension of state capacity, does not significantly influence lockdown decisions. Similarly, capacity less directly related to achieving the policy goal, such as monitoring capacity, also do not explain the variation. Secondly, medical capacity, closely aligned with the policy goal, explains the variation. Cities with weaker medical capacity, i.e., fewer doctors for achieving pandemic control, are more likely to prefer strict measures with large-scale lockdowns, while high-capacity cities prefer targeted measures with small-scale lockdowns. Thirdly, different dimensions of capacity are not necessarily correlated. Cities with strong fiscal capacity do not necessarily have strong medical capacity. In summary, state capacity is multidimensional and varies across localities, with heterogeneity in policy implementation shaped by capacity contingent on the policy goal, especially in times of crisis.
+abstract: ‘Governments often face a counterinsurgency dilemma:’ raising tax rates to extract resources for counterinsurgency efforts may simultaneously intensify public grievances, thereby strengthening the rebel movement. This paper demonstrates that both grievances and rebel strategy can facilitate mobilization, yet their effects do not simply add up. The key mechanism is that grievances reshape social relations between elites and peasants, making it difficult for rebels to exploit polarized relations—particularly class conflict—for mobilization. Drawing on a newly constructed county-level dataset documenting salt tax–related peasant protests and Chinese Communist Party mobilization between 1921 and 1949, and employing a triple difference-in-differences design, the analysis shows that the central government’s efforts to strengthen counterinsurgency capacity provoked local grievances and encouraged participation in rebellion, but at the same time undermined the effectiveness of land reform as a recruitment strategy for the rebel group.
 
 # Summary. An optional shortened abstract.
 summary: Capacity constraints are key to understanding policy implementation particularly during the crisis time.
@@ -34,7 +34,7 @@ summary: Capacity constraints are key to understanding policy implementation par
 tags: [state capacity, policy implementation]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 
 # Custom links (uncomment lines below)
