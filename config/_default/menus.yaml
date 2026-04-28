@@ -13,7 +13,7 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
-   - name: Cats
+ - name: Cats
     url: cats/
     weight: 50
 
